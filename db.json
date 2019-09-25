@@ -4,25 +4,25 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": null
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": null
     },
     {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 4
     },
     {
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 5
     },
     {
       "id": 5,
@@ -40,13 +40,49 @@
       "id": 7,
       "name": "Hamm",
       "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "likes": 2
     },
     {
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "name": "kalfinator",
+      "image": "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj9vMPSkOzkAhUJm-AKHc_gDecQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.argos.co.uk%2Fproduct%2F4813437&psig=AOvVaw3QZQjQarnx2iFLlLZBgAq-&ust=1569506273412281",
+      "likes": 0,
+      "id": 13
+    },
+    {
+      "name": "pizza",
+      "image": "https://classroomclipart.com/images/gallery/Clipart/Toys/TN_stuffed-animal-teddy-bear-clipart.jpg",
+      "likes": 1,
+      "id": 14
+    },
+    {
+      "name": "balto",
+      "image": "https://classroomclipart.com/images/gallery/Clipart/Toys/TN_stuffed-animal-teddy-bear-clipart.jpg",
+      "likes": 1,
+      "id": 15
+    },
+    {
+      "name": "Jessie",
+      "image": "https://www.disneyclips.com/images2/images/jessie-toy-story4.png",
+      "likes": 3,
+      "id": 16
     }
   ]
 }
